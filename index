@@ -1,0 +1,53 @@
+<!DOCTYPE>
+<html>
+<body>
+  <h1>The Time Machine</h1>
+    <h2>By: H.G Wells</h2>
+      <img src="https://s3.us-east-1.amazonaws.com/blackboard.learn.xythos.prod/5849b9bae4172/1336000?response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27hgwells-photo.jpg&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190220T073806Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21599&X-Amz-Credential=AKIAIL7WQYDOOHAZJGWQ%2F20190220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=174d0347c2c098c4c0a9016a8a3e7f78e77d4dbee5fa889edbe2f6d685c307d9">
+  <div>  
+  <h3>Chapter One</h3>
+      <p>The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His grey eyes shone and twinkled, and his usually pale face was flushed and animated. The fire burned brightly, and the soft radiance of the incandescent lights in the lilies of silver caught the bubbles that flashed and passed in our glasses. Our chairs, being his patents, embraced and caressed us rather than submitted to be sat upon, and there was that luxurious after-dinner atmosphere when thought roams gracefully free of the trammels of precision. And he put it to us in this way marking the points with a lean forefinger as we sat and lazily admired his earnestness over this new paradox (as we thought it) and his fecundity.</p>
+      <p>'You must follow me carefully. I shall have to controvert one or two ideas that are almost universally accepted. The geometry, for instance, they taught you at school is founded on a misconception.'</p>
+      <p>'Is not that rather a large thing to expect us to begin upon?' said Filby, an argumentative person with red hair.</p>
+      <p>'I do not mean to ask you to accept anything without reasonable ground for it. You will soon admit as much as I need from you. You know of course that a mathematical line, a line of thickness nil, has no real existence. They taught you that? Neither has a mathematical plane. These things are mere abstractions.'</p>
+      <p>'That is all right,' said the Psychologist.</p>
+  </div>
+    <h3>Other Works by H.G. Wells</h3>
+      <ul>
+        <li><a href="The Island of Doctor Moreau (1896) https://en.wikipedia.org/wiki/The_Island_of_Doctor_Moreau" target="_blank">The Island of Doctor moreau (1896)</a></li>
+        <li><a href="The War of the Worlds (1898) https://en.wikipedia.org/wiki/The_War_of_the_Worlds" target="_blank">The War of the Worlds (1898)</a></li>
+        <li><a href="A Modern Utopia (1905) https://en.wikipedia.org/wiki/A_Modern_Utopia" target="_blank">A Modern Utopia (1905)</a></li> 
+     </ul>
+    <h3>Other Science Fiction Writers</h3>
+      <table>
+        <tr>
+          <th scope="col">Writer</th>
+          <th scope="col">Dates</th>
+        </tr>
+        <tr>
+          <td>Douglas Adams</td>
+          <td>1952-2001</td>
+        </tr>
+        <tr>
+          <td>Ray Bradbury</td>
+          <td>1920-2012</td>
+        </tr>
+        <tr>
+          <td>Orson Scott Card</td>
+          <td>1951-</td>
+        </tr>
+        <tr>
+          <td>William Gibson</td>
+          <td>1948-</td>
+        </tr>
+        <tr>
+          <td>Frank Herbert</td>
+          <td>1920-1986</td>
+        </tr>
+      </table>
+    
+   
+  
+  
+</body>  
+<html>
