@@ -1,0 +1,45 @@
+table{
+  position:relative;
+  left: 850px;
+}
+table, th,td {
+  border: 1px solid purple;
+}
+  th, td{
+   color:mediumvioletred; 
+}  
+}
+div p{
+  font-family: ;
+}
+body{
+  border:2px solid black;
+
+  text-align: center;
+  background-color:lavender;   
+}
+
+h1{
+  text-align: center;
+  border: 4px dotted #ba56d3;
+
+  font-family:"courier";
+  color: white;
+  background-color:black;
+}
+
+h2{
+  color: #ba56d3
+}
+
+h3{
+  font-family:courier;
+  color:white;
+  border: 1px solid purple;
+  border-radius: 300;
+  
+}
+p{
+  font-family:"Comic Sans MS";
+  color:purple;
+}
